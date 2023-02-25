@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa803ac-cec1-4da1-b6d2-3d6f9f95e5ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobject/PaginaUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/Acciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/LlenarForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/OpenApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/definition/DefinitionTaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/definition/DefinitionTaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/taller.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/taller.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5d6d82261a89d924a6cd2a536826e0a1e4fc79cda361155cfefcfe7e3a03c5af.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5d6d82261a89d924a6cd2a536826e0a1e4fc79cda361155cfefcfe7e3a03c5af.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5d6d82261a89d924a6cd2a536826e0a1e4fc79cda361155cfefcfe7e3a03c5af.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5d6d82261a89d924a6cd2a536826e0a1e4fc79cda361155cfefcfe7e3a03c5af.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-5d6d82261a89d924a6cd2a536826e0a1e4fc79cda361155cfefcfe7e3a03c5af.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-5d6d82261a89d924a6cd2a536826e0a1e4fc79cda361155cfefcfe7e3a03c5af.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +56,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/CURSO AUTOMATIZACION POM SCREENPLAY/Proyecto POM/TALLER/tallerPom/src/test/resources"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Repositorio GIT/Proyecto SURA/aseguramiento-corevida-pa"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,6 +99,26 @@
       <option name="NAME_FILTER" value="^Iniciar sesion correctamente en la pagina$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Iniciar sesion correctamente en la pagina$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Iniciar sesion correctamente en la pagina" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Registrarse correctamente en la pagina" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/taller.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors definition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="tallerPom.test" />
+      <option name="NAME_FILTER" value="^Registrarse correctamente en la pagina$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Registrarse correctamente en la pagina$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Registrarse correctamente en la pagina" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -140,9 +176,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.RunerTaller" />
+        <item itemvalue="Cucumber Java.Scenario: Registrarse correctamente en la pagina" />
+        <item itemvalue="Cucumber Java.Scenario: " />
         <item itemvalue="Cucumber Java.Feature: taller" />
         <item itemvalue="Cucumber Java.Scenario: Iniciar sesion correctamente en la pagina" />
-        <item itemvalue="Cucumber Java.Scenario: " />
       </list>
     </recent_temporary>
   </component>
@@ -167,5 +204,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tallerPom$RunerTaller.ic" NAME="RunerTaller Coverage Results" MODIFIED="1677266184199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
